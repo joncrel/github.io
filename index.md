@@ -1,4 +1,4 @@
-![Jon flying] (/assets/image1pilot.jpg)
+![Jon flying](/assets/image1pilot.jpg)
 
 This is the simplest blogging site there can be
 
