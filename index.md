@@ -1,3 +1,5 @@
+![Jon flying] (/assets/image1pilot.jpg)
+
 This is the simplest blogging site there can be
 
 Blog posts are stored in the _posts folder and you will see a file in there for the sample blog post.
